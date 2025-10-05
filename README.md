@@ -6,19 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>EduPythonFacile — Cours complets Python NSI Première</title>
   <meta name="description" content="Cours, exercices et explications complètes pour la spécialité NSI Première sur EduPython." />
-  <style>
-    :root{--accent:#0ea5a4;--dark:#0f172a;--muted:#6b7280;--bg:#f8fafc}
-    body{font-family:Inter, system-ui; margin:0; color:#0f172a; background:var(--bg)}
-    header{background:linear-gradient(180deg,white, #eef2f7);border-bottom:1px solid #e6edf3}
-    .container{max-width:1100px;margin:0 auto;padding:24px}
-    nav{display:flex;align-items:center;justify-content:space-between}
-    .logo{display:flex;gap:12px;align-items:center}
-    .mark{width:44px;height:44px;border-radius:8px;background:var(--accent);display:flex;align-items:center;justify-content:center;color:white;font-weight:700}
-    a.btn{background:var(--accent);color:white;padding:8px 14px;border-radius:8px;text-decoration:none}
-    .grid-3{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
-    .card{background:white;border-radius:12px;padding:16px;box-shadow:0 6px 18px rgba(12,16,24,0.06)}
-    pre{background:#0b1220;color:#d8eef3;padding:12px;border-radius:8px;overflow:auto;font-size:13px}
-    .section-title{font-size:22px;margin-top:24px;color:var(--accent)}
+  <style==
   </style>
 </head>
 <body>
