@@ -2,7 +2,6 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>EduPythonFacile — Cours complets Python NSI Première</title>
   <meta name="description" content="Cours, exercices et explications complètes pour la spécialité NSI Première sur EduPython." />
   <style==
   </style>
