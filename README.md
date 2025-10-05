@@ -1,5 +1,4 @@
 # cours-edupython-pour-lifse
-[PLUSSS.html](https://github.com/user-attachments/files/22710092/PLUSSS.html)
 <!doctype html>
 <html lang="fr">
 <head>
